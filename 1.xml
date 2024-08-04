@@ -1,7 +1,7 @@
 <citron>
-  <export sample="test1"></export>
+  <export sample="citron1"></export>
 
-  <sample name="test1">
+  <sample name="citron1">
     <p>Hello World! This is a sample</p>
   </sample>
 </citron>
